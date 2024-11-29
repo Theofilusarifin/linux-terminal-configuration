@@ -1,4 +1,3 @@
-```markdown
 # Fixing Background Colors in Terminal
 
 ## Step 1: Backup and Edit `dircolors`
